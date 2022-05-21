@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/impledge/sdk/issues"
   },
-  "homepage": "https://github.com/impledge/sdk/packages/relay#readme"
+  "homepage": "https://github.com/impledge/sdk/packages/relay#readme",
+  "dependencies": {
+    "mocha": "^10.0.0"
+  }
 }
