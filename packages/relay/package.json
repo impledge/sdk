@@ -1,0 +1,22 @@
+{
+  "name": "relay",
+  "version": "1.0.0",
+  "description": "Package for converting identifiers into compliant uid types according to the relay specification. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impledge/sdk.git"
+  },
+  "keywords": [
+    "realyid-sdk"
+  ],
+  "author": "Adrian Brown, adrbrownx@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/impledge/sdk/issues"
+  },
+  "homepage": "https://github.com/impledge/sdk/packages/relay#readme"
+}
