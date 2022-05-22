@@ -1,4 +1,4 @@
-### @impledge/relay package
+### RELAY-CONVERT
 
 Package containing helpers for encoding/decoding ids according to the relay specification
 
