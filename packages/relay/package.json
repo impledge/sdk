@@ -1,5 +1,5 @@
 {
-  "name": "relay",
+  "name": "relay-convert",
   "version": "1.0.0",
   "description": "Package for converting identifiers into compliant uid types according to the relay specification. ",
   "main": "index.js",
